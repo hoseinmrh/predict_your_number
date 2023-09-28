@@ -4,7 +4,7 @@
 - Extended version guesses your number out of 45 numbers!
 
 ## How to use
-- clone this repo using `https://github.com/hoseinmrh/predict_your_number`
+- clone this repo using `git clone https://github.com/hoseinmrh/predict_your_number`
 - Run it
 - Pick a number from given numbers
 - Each time enter number of coloumn that your number is in
